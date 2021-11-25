@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite thread-count="2" name="Parallel Testing Suite" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <test name="Parallel Tests" parallel="methods">
+        <classes>
+            <class name="com.vapasi.ParallelTest"/>
+        </classes>
+    </test>
+</suite>
+
+
+        I checked in DTCP website for the approved plots but I couldn't find any entry for survey no 80/2
+        http://180.179.58.247/dtcpadmin2017/frmApprovedFinalPublicSketchList.aspx
+
+        District: Madurai
+        Type of Local Body : PANCHAYAT UNION
+        Local Body :  MADURAI WEST
+        Layout Sketch Approved : 2018
+
+        Look for Alathur sketch
